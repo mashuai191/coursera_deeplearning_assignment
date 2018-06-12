@@ -8,4 +8,6 @@ This is the assignment from Coursera Deep Learning course for learning purpose. 
 - Course 4: Convolutional Neural Networks
 - Course 5: Sequence Models
 
+Status: course 1 done. course 2 week 1/2 done. others not done.
+
 **Note: To save time, I created a docker image at https://hub.docker.com with name mashuai/tensorflow_4_sklearn. Everyone can download it to run those assignments.**
