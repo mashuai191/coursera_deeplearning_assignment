@@ -10,4 +10,4 @@ This is the assignment from Coursera Deep Learning course for learning purpose. 
 
 
 
-# Note: To save time, I created a docker image at https://hub.docker.com/r/mashuai/tensorflow_4_sklearn/. Everyone can download it to run those assignments. 
+** Note: To save time, I created a docker image at https://hub.docker.com/r/mashuai/tensorflow_4_sklearn/. Everyone can download it to run those assignments. **
