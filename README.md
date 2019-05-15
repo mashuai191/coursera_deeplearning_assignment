@@ -10,5 +10,5 @@ This is the assignment from Coursera Deep Learning course for learning purpose. 
 
 **Status**: course 1/2/3/4 done. 5 RNN not done.
 
-**Note**: To save time, I created a docker image at https://hub.docker.com with name mashuai/tensorflow_deepleaning. Everyone can download it to run these assignments in the docker container, with your assignment folder mounted properly by -v option. 
+**Note**: To save time, I created a docker image at https://hub.docker.com with name mashuai/machine_learning_default. Everyone can download it to run these assignments in the docker container, with your assignment folder mounted properly by -v option. 
 <br/>Example: <code>docker run -it -v /home/mashuai/study/deeplearning/coursera_deeplearning_assignment:/notebooks  -p 80:8888 mashuai/machine_learning_default:xxx</code>
