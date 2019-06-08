@@ -1,5 +1,6 @@
 # coursera_deeplearning_assignment
 This is the assignment from Coursera Deep Learning course for learning purpose. Please don't copy to your excercise.
+If you like this repo, please add a star to it and i will appreciate that.
 
 ## Programming Assignments
 - Course 1: Neural Networks and Deep Learning
