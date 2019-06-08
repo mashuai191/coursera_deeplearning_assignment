@@ -1,6 +1,7 @@
 # coursera_deeplearning_assignment
-This is the assignment from Coursera Deep Learning course for learning purpose. Please don't copy to your excercise.
-If you like this repo, please add a star to it and i will appreciate that.
+This is the assignment from Coursera Deep Learning course for learning purpose. Please don't copy to your excercise. Andrew's this specifization course really helped me a lot on understanding various concept of DL, and give me a great chance to pratice on assignments. Great thanks to Andrew Ng for the best online course i ever take!
+
+If you haven't take Andrew's deep learing course, i stronly recommend you to take those. And then if you like this repo, please add a star to it and i will appreciate that.
 
 ## Programming Assignments
 - Course 1: Neural Networks and Deep Learning
